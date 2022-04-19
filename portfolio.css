@@ -51,6 +51,12 @@ body {
     font-size: 20px;
 }
 
+.tecnologias {
+    margin: 0 20px 10px 20px;
+    height: 50px;
+    width: 150px;
+}
+
 ul {
     display: inline;
     margin: 10px 20px;
